@@ -2,7 +2,7 @@
 
 # 🧮 &nbsp;Gentamicin Dose Calculator
 
-📖 &nbsp;An example project from my book [**"Code Blue: An Introduction to Programming for Doctors and Medical Students"**](https://gumroad.com/products/NMtSD/).
+📖 &nbsp;An example project from my book [**Code Blue: An Introduction to Programming for Doctors and Medical Students**](https://gumroad.com/products/NMtSD/).
 
 💊&nbsp;In this project, we build a simple web interface for generating admission notes as if they were to fit straight into a patient’s paper chart.
 
